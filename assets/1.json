@@ -1,0 +1,23 @@
+{
+    "name": "R44",
+    "symbol": "",
+    "image": "1.png",
+    "collections": {
+      "name": "Robinson Helicopters",
+      "family": "Helicopter NFTs"
+    },
+    "properties": {
+      "files": [
+        {
+          "uri": "1.png",
+          "type": "image/png"
+        }
+      ],
+      "creators": [
+        {
+          "address": "2yKZaWitQtVQzazed5s7vkfxSRMtBXkfKUZYMtXtnvp1",
+          "share": 100
+        }
+      ]
+    }
+  }
