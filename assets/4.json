@@ -1,15 +1,15 @@
 {
-    "name": "R66",
+    "name": "B105C",
     "symbol": "",
-    "image": "2.png",
+    "image": "1.png",
     "collections": {
-      "name": "Robinson Helicopters",
+      "name": "MBB",
       "family": "Helicopter NFTs"
     },
     "properties": {
       "files": [
         {
-          "uri": "2.png",
+          "uri": "1.png",
           "type": "image/png"
         }
       ],

@@ -1,15 +1,15 @@
 {
-    "name": "R66",
+    "name": "BellJet Ranger",
     "symbol": "",
-    "image": "2.png",
+    "image": "5.png",
     "collections": {
-      "name": "Robinson Helicopters",
+      "name": "Bell",
       "family": "Helicopter NFTs"
     },
     "properties": {
       "files": [
         {
-          "uri": "2.png",
+          "uri": "5.png",
           "type": "image/png"
         }
       ],
